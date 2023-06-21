@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-react-app/static/css/main.f7440e02.css",
-    "main.js": "/deploy-react-app/static/js/main.27e35a29.js",
+    "main.js": "/deploy-react-app/static/js/main.c8eee361.js",
     "static/media/hero.mp4": "/deploy-react-app/static/media/hero.65426181d735fb19d0bd.mp4",
     "static/media/project3.jpg": "/deploy-react-app/static/media/project3.71a5b436952ef4ccf841.jpg",
     "static/media/editImage1.png": "/deploy-react-app/static/media/editImage1.25db1abefb9637d435f8.png",
@@ -18,10 +18,10 @@
     "static/media/youtube.svg": "/deploy-react-app/static/media/youtube.2ab5d1262dcfc45818cbff717ff278c6.svg",
     "static/media/mail.svg": "/deploy-react-app/static/media/mail.84fc5050b0f5f828463e5e95398ac830.svg",
     "main.f7440e02.css.map": "/deploy-react-app/static/css/main.f7440e02.css.map",
-    "main.27e35a29.js.map": "/deploy-react-app/static/js/main.27e35a29.js.map"
+    "main.c8eee361.js.map": "/deploy-react-app/static/js/main.c8eee361.js.map"
   },
   "entrypoints": [
     "static/css/main.f7440e02.css",
-    "static/js/main.27e35a29.js"
+    "static/js/main.c8eee361.js"
   ]
 }
