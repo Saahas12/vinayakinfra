@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/%3Cvinayakinfra%3E/static/css/main.9e05c572.css",
-    "main.js": "/%3Cvinayakinfra%3E/static/js/main.616d95c4.js",
-    "static/media/hero.mp4": "/%3Cvinayakinfra%3E/static/media/hero.65426181d735fb19d0bd.mp4",
-    "static/media/project3.jpg": "/%3Cvinayakinfra%3E/static/media/project3.71a5b436952ef4ccf841.jpg",
-    "static/media/editImage1.png": "/%3Cvinayakinfra%3E/static/media/editImage1.25db1abefb9637d435f8.png",
-    "static/media/gym1.png": "/%3Cvinayakinfra%3E/static/media/gym1.4f4e691722af4086d734.png",
-    "static/media/gym.png": "/%3Cvinayakinfra%3E/static/media/gym.a6eaca5d9328ce952835.png",
-    "static/media/shantifloorplan.jpg": "/%3Cvinayakinfra%3E/static/media/shantifloorplan.4729fb071e47fbdd6041.jpg",
-    "static/media/logo5.png": "/%3Cvinayakinfra%3E/static/media/logo5.3cace7a8eeba7279da10.png",
-    "static/media/instagram.svg": "/%3Cvinayakinfra%3E/static/media/instagram.33be9bfee06ca055eff699b7aef8393e.svg",
-    "static/media/whatsapp.svg": "/%3Cvinayakinfra%3E/static/media/whatsapp.e297a20ad03b7589d179f739a00e0ff1.svg",
-    "static/media/twitter.svg": "/%3Cvinayakinfra%3E/static/media/twitter.865e01ea1bafb40fd3c77ad558da3dea.svg",
-    "index.html": "/%3Cvinayakinfra%3E/index.html",
-    "static/media/location.svg": "/%3Cvinayakinfra%3E/static/media/location.dead106b72d35a7bc17d3eb110a2f324.svg",
-    "static/media/phone.svg": "/%3Cvinayakinfra%3E/static/media/phone.0b96dc790f6f1a5d5f9297ade1f0a88f.svg",
-    "static/media/youtube.svg": "/%3Cvinayakinfra%3E/static/media/youtube.2ab5d1262dcfc45818cbff717ff278c6.svg",
-    "static/media/mail.svg": "/%3Cvinayakinfra%3E/static/media/mail.84fc5050b0f5f828463e5e95398ac830.svg",
-    "main.9e05c572.css.map": "/%3Cvinayakinfra%3E/static/css/main.9e05c572.css.map",
-    "main.616d95c4.js.map": "/%3Cvinayakinfra%3E/static/js/main.616d95c4.js.map"
+    "main.css": "/Saahas12/vinayakinfra/static/css/main.e82d20be.css",
+    "main.js": "/Saahas12/vinayakinfra/static/js/main.2b2d8fd8.js",
+    "static/media/hero.mp4": "/Saahas12/vinayakinfra/static/media/hero.65426181d735fb19d0bd.mp4",
+    "static/media/project3.jpg": "/Saahas12/vinayakinfra/static/media/project3.71a5b436952ef4ccf841.jpg",
+    "static/media/editImage1.png": "/Saahas12/vinayakinfra/static/media/editImage1.25db1abefb9637d435f8.png",
+    "static/media/gym1.png": "/Saahas12/vinayakinfra/static/media/gym1.4f4e691722af4086d734.png",
+    "static/media/gym.png": "/Saahas12/vinayakinfra/static/media/gym.a6eaca5d9328ce952835.png",
+    "static/media/shantifloorplan.jpg": "/Saahas12/vinayakinfra/static/media/shantifloorplan.4729fb071e47fbdd6041.jpg",
+    "static/media/logo5.png": "/Saahas12/vinayakinfra/static/media/logo5.3cace7a8eeba7279da10.png",
+    "static/media/instagram.svg": "/Saahas12/vinayakinfra/static/media/instagram.33be9bfee06ca055eff699b7aef8393e.svg",
+    "static/media/whatsapp.svg": "/Saahas12/vinayakinfra/static/media/whatsapp.e297a20ad03b7589d179f739a00e0ff1.svg",
+    "static/media/twitter.svg": "/Saahas12/vinayakinfra/static/media/twitter.865e01ea1bafb40fd3c77ad558da3dea.svg",
+    "index.html": "/Saahas12/vinayakinfra/index.html",
+    "static/media/location.svg": "/Saahas12/vinayakinfra/static/media/location.dead106b72d35a7bc17d3eb110a2f324.svg",
+    "static/media/phone.svg": "/Saahas12/vinayakinfra/static/media/phone.0b96dc790f6f1a5d5f9297ade1f0a88f.svg",
+    "static/media/youtube.svg": "/Saahas12/vinayakinfra/static/media/youtube.2ab5d1262dcfc45818cbff717ff278c6.svg",
+    "static/media/mail.svg": "/Saahas12/vinayakinfra/static/media/mail.84fc5050b0f5f828463e5e95398ac830.svg",
+    "main.e82d20be.css.map": "/Saahas12/vinayakinfra/static/css/main.e82d20be.css.map",
+    "main.2b2d8fd8.js.map": "/Saahas12/vinayakinfra/static/js/main.2b2d8fd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e05c572.css",
-    "static/js/main.616d95c4.js"
+    "static/css/main.e82d20be.css",
+    "static/js/main.2b2d8fd8.js"
   ]
 }
