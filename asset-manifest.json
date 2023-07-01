@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vinayakinfra/static/css/main.2aa0c9ce.css",
+    "main.css": "/vinayakinfra/static/css/main.038a2fde.css",
     "main.js": "/vinayakinfra/static/js/main.0b39692e.js",
     "static/media/hero.mp4": "/vinayakinfra/static/media/hero.65426181d735fb19d0bd.mp4",
     "static/media/project3.jpg": "/vinayakinfra/static/media/project3.71a5b436952ef4ccf841.jpg",
@@ -17,11 +17,11 @@
     "static/media/phone.svg": "/vinayakinfra/static/media/phone.0b96dc790f6f1a5d5f9297ade1f0a88f.svg",
     "static/media/youtube.svg": "/vinayakinfra/static/media/youtube.2ab5d1262dcfc45818cbff717ff278c6.svg",
     "static/media/mail.svg": "/vinayakinfra/static/media/mail.84fc5050b0f5f828463e5e95398ac830.svg",
-    "main.2aa0c9ce.css.map": "/vinayakinfra/static/css/main.2aa0c9ce.css.map",
+    "main.038a2fde.css.map": "/vinayakinfra/static/css/main.038a2fde.css.map",
     "main.0b39692e.js.map": "/vinayakinfra/static/js/main.0b39692e.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aa0c9ce.css",
+    "static/css/main.038a2fde.css",
     "static/js/main.0b39692e.js"
   ]
 }
